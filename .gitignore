@@ -1,1 +1,32 @@
 /books
+__pychache__
+*.pyc
+# Ignore Python cache files
+*.pyo
+*.pyd
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+# Ignore virtual environment directories
+venv/
+# Ignore environment variable files
+.env
+# Ignore log files
+*.log
+# Ignore coverage reports
+.coverage
+# Ignore build directories
+build/
+# Ignore distribution directories
+dist/
+# Ignore Python egg files
+*.egg
+# Ignore egg-info directories
+*.egg-info/
+# Ignore pipenv files
+Pipfile.lock
+# Ignore pyproject.toml lock files
+poetry.lock
+# Ignore IDE specific files
+.idea/
+# Ignore VS Code settings
+.vscode/
