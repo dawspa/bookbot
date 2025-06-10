@@ -1,5 +1,5 @@
 /books
-__pychache__
+__pycache__
 *.pyc
 # Ignore Python cache files
 *.pyo
